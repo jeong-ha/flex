@@ -536,13 +536,6 @@ header{
 #tab5:checked+label{font-weight:900;}
 #tab6:checked+label{font-weight:900;}
 */
-.con4de{
-    position:absolute;
-    bottom: 0px;
-    right: 0px;
-    width: 30%;
-    height: 30%;
-}
 /*컨텐츠05*/
 .con5{
     text-align:center;
