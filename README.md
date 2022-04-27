@@ -1,3 +1,2 @@
 # flex
-# link define
-[Google]: http://google.com/ 
+(https://www.google.com/){:target="_blank"}
