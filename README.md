@@ -1,2 +1,2 @@
 # flex
-<a href="https://www.google.com/" target="_blank">
+<https://jeong-ha.github.io/flex/>{: target="_blank"}
